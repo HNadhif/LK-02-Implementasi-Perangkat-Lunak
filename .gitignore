@@ -1,0 +1,23 @@
+# === Java umum ===
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.tar.gz
+*.rar
+*.iml
+
+# File log
+*.log
+
+# Direktori hasil build
+bin/
+build/
+out/
+target/
+.idea/
+
+# Konfigurasi sistem atau OS
+.DS_Store
+Thumbs.db
